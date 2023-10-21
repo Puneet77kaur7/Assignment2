@@ -1,0 +1,88 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(120deg, #e0c3fc, #8ec5fc);
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+    .container {
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 50px;
+        border-radius: 15px;
+        box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+        width: 80%;
+        max-width: 800px;
+    }
+    
+    header {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    
+    h1 {
+        font-family: 'Playfair Display', serif;
+        font-weight: 700;
+        font-size: 4rem;
+        color: #2c3e50;
+    }
+    
+    h2 {
+        font-size: 1.2rem;
+        color: #555;
+        letter-spacing: 1.5px;
+    }
+    
+    main p {
+        
+        text-align: center;
+        position: relative;
+    }
+    
+  .lyrics {
+    text-align: center;
+    margin: 20px;
+  }
+  .river {
+    color: #3399FF; /* A river-like blue */
+    font-weight: bold;
+  }
+  .moving {
+    color: #FF6600; /* Energetic orange */
+  }
+  .loneliness {
+    color: #6666FF; /* Lonely blue */
+  }
+  .game {
+    color: #66CC00; /* Fun and vibrant green */
+  }
+  .love {
+    color: #FF3333; /* Passionate red */
+  }
+  .mover {
+    color: #FF9900; /* Confident orange */
+  }
+  .way {
+    color: #99CC00; /* Wise and hopeful green */
+  }
+  .heart {
+    color: #FF66CC; /* Emotional pink */
+  }
+  .learned {
+    color: #FFCC00; /* Learning and bright yellow */
+  }
+  .wife {
+    color: #FF3399; /* Love and romantic pink */
+  }
+  .children {
+    color: #FF9966; /* Caring and nurturing orange */
+  }
+  .home {
+    color: #33CC33; /* Comforting green */
+  }
+  .road {
+    color: #FF3300; /* Adventurous red */
+  }
